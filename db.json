@@ -10,7 +10,7 @@
     { "id": 3, "body": "test", "postId": 1},
     {"well" : "this is just a test"}
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "highscore": [
+    { "id": 451, "score": 15 }
+  ]
 }
