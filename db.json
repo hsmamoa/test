@@ -1,15 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "second some comment", "postId": 1 },
-    { "id": 3, "body": "test", "postId": 1},
-    {"well" : "this is just a test"}
-  ],
   "highscore": [
     { "id": 451, "score": 15 }
   ]  
